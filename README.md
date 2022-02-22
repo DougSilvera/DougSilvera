@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- I’m currently working on finishing a full stack software development bootcamp.
+- Personal projects include a star wars fan site in development once development bootcamp is over.
 <!--
 **DougSilvera/DougSilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
